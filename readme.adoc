@@ -16,6 +16,8 @@ image::pic/编译过程.png[align=center]
 
 == 参考
 
+http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/[斯坦福编译原理 课程：cs143]
+
 [%hardbreaks]
 *从零写一个编译器系列*
 https://juejin.cn/post/6844903918414086151[从零写一个编译器（一）：输入系统和词法分析]
